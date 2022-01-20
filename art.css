@@ -1,0 +1,186 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  color: white;
+}
+body{
+	text-align: center;
+    background: #40E0D0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+#h3{
+    color: black;font-family: 'Comic Sans MS';
+}
+#h4{
+    color: black;font-family: 'Comic Sans MS';
+}
+#lable{
+    color: black;font-family: 'Caligraphy';
+}
+#n{
+	color: white;
+}
+
+.header
+{
+	color: white;font-family: 'Algerian';font-size: 60px;letter-spacing: 10px;margin-top: 80px;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+}
+
+.logo
+{
+	width: 100px;margin-top: 50px;border-radius: 90px;
+}
+
+
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
+.ma{
+	width:20px;height:20px;
+    float: left; 
+}
+#shop{
+	color: white;
+	text-align: center;
+}
+
+#text{
+	color:white;
+    text-shadow: 5px 5px 5px;
+	font-size:150%;
+	font-family:'Algerian';
+}
+#myNavbar{
+	background: #ee9ca7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffdde1, #ee9ca7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffdde1, #ee9ca7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+	color:palevioletred;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+   }
+   #div{
+	   text-align: center;
+   }
+
+  .text{
+	  color: black;
+	  background-color: bisque;
+  }
+  #javat{
+      text-align: center;
+  }
+  #app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container
+{
+    text-align: center;
+}
+
+#mycarousel{
+    background: #59C173;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #5D26C1, #a17fe0, #59C173);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #5D26C1, #a17fe0, #59C173); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+#mycarousel2{
+    background-color:pink;
+}
+.carousel-inner p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: coral;
+    font-size: 25px;
+}
+#mycarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+#mycarousel2 img{
+    height: 300px;
+    margin-top: 35px;
+}
+#frame{
+    background: #ff00cc;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #333399, #ff00cc);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #333399, #ff00cc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#trays{
+    background: #de6161;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2657eb, #de6161);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2657eb, #de6161); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#journals{
+background: #ef32d9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #89fffd, #ef32d9);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #89fffd, #ef32d9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#bookmarks{
+    background: #4ECDC4;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #556270, #4ECDC4);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #556270, #4ECDC4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
+}
+#coaster{
+    background: #BE93C5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #7BC6CC, #BE93C5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #7BC6CC, #BE93C5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#key{
+    background: #fceabb;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f8b500, #fceabb);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f8b500, #fceabb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#painting{
+    background: #f79d00;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #64f38c, #f79d00);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #64f38c, #f79d00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#Flower{
+    background: #cb2d3e;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ef473a, #cb2d3e);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ef473a, #cb2d3e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#Jewel{
+    background: #000428;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #004e92, #000428);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #004e92, #000428); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#f{
+    color:black;
+}
+#note{
+    color: red;
+}
+#shopping{
+    text-shadow: 5px 5px 5px 
+}
+.wall{
+    display: flex;
+}
+.g{
+    color:black;
+}

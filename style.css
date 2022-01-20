@@ -1,0 +1,91 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+body{
+	text-align: center;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+}
+
+#h3{
+    color: black;font-family: 'Comic Sans MS';
+}
+#h4{
+    color: black;font-family: 'Comic Sans MS';
+}
+#lable{
+    color: black;font-family: 'Caligraphy';
+}
+#n{
+	color: white;
+}
+
+.header
+{
+	color: white;font-family: 'Algerian';font-size: 60px;letter-spacing: 10px;margin-top: 80px;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+}
+
+.logo
+{
+	width: 100px;margin-top: 50px;border-radius: 90px;
+}
+
+.logo
+{
+	width: 100px;margin-top: 50px;border-radius: 100px;
+}
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+	background: #4568DC;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #B06AB3, #4568DC);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #B06AB3, #4568DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#m{
+	width:15%; height:30%;
+}
+#ma{
+	width:15%; height:30%;
+}
+#shop{
+	color: white;
+	text-align: center;
+}
+#tra{
+	width:15%; height:30%;
+}
+#tray{
+	width:15%; height:30%;
+}
+#text{
+	color:goldenrod;
+	font-size:150%;
+	font-family:'Algerian';
+}
+#myNavbar{
+	background-color:mediumslateblue;
+	color:palevioletred;
+   }
+   #div{
+	   text-align: center;
+   }
+  #search{
+	  width:30%;
+  }
+  .text{
+	  color: black;
+	  background-color: bisque;
+  }
